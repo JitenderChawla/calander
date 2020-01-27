@@ -1,0 +1,53 @@
+
+[
+  {
+    "date":1579084476000,
+    "bookings":[
+      {
+        "bookingId":1,
+        "customer":{
+          "customerName":"Naveen Kumar",
+          "customerId":"252644vdgaga21"
+        },
+        "bookingStartTime":1579084476000,
+        "slotId":121
+      },
+
+      {
+        "bookingId":2,
+        "customer":{
+          "customerName":"Deepak Kumar",
+          "customerId":"252dsga2151a21"
+        },
+        "bookingStartTime":1579091676000,
+        "slotId":123
+      }
+    ]
+  }
+,
+  {
+    "date":1579854876000,
+    "bookings":[
+      {
+        "bookingId":4,
+        "customer":{
+          "customerName":"Praveen Kumar",
+          "customerId":"252644vdgaga21"
+        },
+        "bookingStartTime":1579854876000,
+        "slotId":124
+      },
+
+      {
+        "bookingId":3,
+        "customer":{
+          "customerName":"Deepak Kumar",
+          "customerId":"252dsga2151a21"
+        },
+        "bookingStartTime":1579865676000,
+        "slotId":125
+      }
+    ]
+  }
+]
+
